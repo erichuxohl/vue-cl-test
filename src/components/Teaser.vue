@@ -9,5 +9,5 @@ export default {
 }
 </script>
 <style scoped>
-span { color: red }
+span { color: green }
 </style>
